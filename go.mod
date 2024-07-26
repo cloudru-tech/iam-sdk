@@ -4,6 +4,8 @@ go 1.19
 
 require (
 	github.com/envoyproxy/protoc-gen-validate v1.0.4
+	github.com/golang-jwt/jwt/v4 v4.5.0
+	github.com/google/uuid v1.6.0
 	google.golang.org/genproto/googleapis/api v0.0.0-20240610135401-a8a62080eff3
 	google.golang.org/grpc v1.64.0
 	google.golang.org/protobuf v1.34.2
